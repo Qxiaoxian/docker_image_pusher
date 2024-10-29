@@ -1,1 +1,1 @@
-elasticsearch-7.17.24
+elasticsearch:7.17.24
