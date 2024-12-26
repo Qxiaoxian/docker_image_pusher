@@ -1,4 +1,1 @@
-nginx
-#nginx:latest
-elasticsearch:7.17.24
-yq_linux_amd64
+sonarqube-server-9.0.1.46107
