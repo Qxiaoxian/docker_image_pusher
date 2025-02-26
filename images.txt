@@ -1,3 +1,3 @@
-minio
+minio/minio
 
 
